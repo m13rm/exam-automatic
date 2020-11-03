@@ -1,0 +1,13 @@
+#Ignore PHPStorm settings folder
+.idea/
+node_modules/
+bower_components/
+# Ignore system files
+.DS_Store
+Thumbs.db
+desctop.ini
+#Ignore installed nodejs modules folder and package-lock.json
+package-lock.json
+
+
+
